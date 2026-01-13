@@ -1,0 +1,5 @@
+This activity encouraged looking at a basic electrical circuit as more than just a technical setup. Rather than focusing only on making the LED light up, the emphasis shifted to how a user would interact with it and the story the object could convey. Working within the limitation of using only a cell, LED, and wires pushed the process toward inventive thinking instead of relying on conventional switches or mechanisms.
+
+Transforming the circuit into a cupcake made the concept feel approachable and playful. Hiding the circuit behind the cut-out and using copper tape allowed the interaction to feel intuitive when the fork touched the surface, the glowing cherry acted as a subtle reward for the user’s action. This demonstrated how design can guide interaction without the need for explicit instructions.
+
+Overall, this task demonstrated how creativity, storytelling, and function can come together in a single outcome. It reinforced the idea that interaction design does not always require complexity; engaging experiences can emerge from simple materials used thoughtfully.
